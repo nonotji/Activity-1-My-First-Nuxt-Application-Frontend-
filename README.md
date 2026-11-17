@@ -1,0 +1,1 @@
+# Activity-1-My-First-Nuxt-Application-Frontend-
